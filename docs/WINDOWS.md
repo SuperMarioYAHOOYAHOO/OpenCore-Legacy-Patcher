@@ -222,3 +222,5 @@ You can also open `Properties` on the file to change the compatibility to `Previ
 ### iMac12,x Bluescreen after driver installation
 
 Currently Intel's iGPU drivers for the HD 3000 series do not support UEFI booting in Windows. The recommended solution is to simply disable the iGPU: [iMac 12,1 Windows 10 Boot Loop – Fix Intel Graphics issue](https://zzq.org/?p=39)
+
+ISSUE: IT SEEMS THEY HAVE FIXED THIS. I  INSTLLED HD GRAPHICS 3000 ON MY MACBOOKPRO8,1 AND ITS FINE.
